@@ -54,4 +54,3 @@
 ![截屏2023-07-09 15 15 38](https://github.com/nidemimihihi/GIGABYTE-B450M-K-R5-5600g/assets/45564110/b90a7531-bc10-4a84-a3c4-adad06832ce4)
 
 
-![截屏2023-07-09 15 16 48](https://github.com/nidemimihihi/GIGABYTE-B450M-K-R5-5600g/assets/45564110/8b060082-3834-4053-ae4a-25491c0ce25d)
