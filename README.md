@@ -7,7 +7,7 @@
 处理器 | AMD R5 5600G
 显卡 | AMD Radeon(TM)Graphics
 硬盘  |	 致钛5000 1T
-内存  |	16GB 威刚 3200
+内存  |	16GB 威刚 3200MHz
 无线 + 蓝牙 | AX210 无线网卡
 网卡 | Realtek
 
